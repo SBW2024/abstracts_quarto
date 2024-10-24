@@ -41,6 +41,7 @@ format:
       light: [flatly] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [darkly]
     code-copy: true
+    linkcolor: "#539180"
     code-overflow: wrap
     toc: true
 
