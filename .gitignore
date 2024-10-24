@@ -1,0 +1,8 @@
+.quarto/
+_site
+
+/.quarto/
+files/
+
+/markdowns*
+.gitignore (END)

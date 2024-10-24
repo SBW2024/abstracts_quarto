@@ -1,0 +1,16 @@
+---
+title: "Swedish Bioinformatics Workshop 2024"
+subtitle: "Abstracts"
+listing:
+  contents: abstracts/*/*.qmd
+  id: abstracts
+  type: table
+  table-striped: true
+  categories: true
+  date-format: MMM DD, HH:mm
+  sort: "date asc"
+---
+
+::: {#abstracts}
+
+:::
