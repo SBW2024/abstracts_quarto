@@ -1,0 +1,52 @@
+---
+title: "Genome-wide comparison reveals large structural variants in the cassava landraces"
+author: "Michael Landi"
+authors:
+  - name: Michael Landi
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Anna Vittoria Carluccio
+    affiliations:
+      - ref: u3
+  - name: Trushar Shah
+    affiliations:
+      - ref: u2
+  - name: Adnan Niazi
+    affiliations:
+      - ref: u1
+  - name: Livia Stavolone
+    affiliations:
+      - ref: u2
+      - ref: u3
+  - name: Laurent Falquet
+    affiliations:
+      - ref: u4
+      - ref: u5
+  - name: Andreas Gisel
+    affiliations:
+      - ref: u2
+      - ref: u6
+  - name: Erik Bongcam-Rudloff
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Animal Breeding and Genetics, Bioinformatics section, Swedish University of Agricultural Sciences, P.O Box 7023, S-750 07 Uppsala, Sweden
+  - id: u2
+    name: International Institute of Tropical Agriculture
+  - id: u3
+    name: Institute of Sustainable Plant Protection, CNR, Bari, Italy
+  - id: u4
+    name: Department of Biology, University of Fribourg, Switzerland
+  - id: u5
+    name: Swiss Institute of Bioinformatics, Switzerland
+  - id: u6
+    name: Institute of Biomedical Technologies, CNR, Bari, Italy
+date: 2024-11-04T14:30
+categories:
+  - genomics session
+  - monday
+
+abstract: The authors have not consented to publishing their abstract. 
+---

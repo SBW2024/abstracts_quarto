@@ -1,0 +1,42 @@
+---
+title: "Genetic and Transcriptomic Insights into Early-Onset Advanced Heart Failure: Findings from the SwedeHeartSeq Project"
+author: Philipp Rentzsch
+authors:
+  - name: Philipp Rentzsch
+    affiliations:
+      - ref: uf
+  - name: Tomasz Czuba
+    affiliations:
+      - ref: ue
+  - name: Erik Linnér
+    affiliations:
+      - ref: ue
+  - name: Molly Martorella
+    affiliations:
+      - ref: ur
+  - name: Olof Gidlöf
+    affiliations:
+      - ref: ue
+  - name: Tuuli Lappalainen
+    affiliations:
+      - ref: uf
+      - ref: ue
+  - name: Gustav Smith
+    affiliations:
+      - ref: ut
+affiliations:
+  - id: uf
+    name: Science for Life Laboratory & Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden
+  - id: ue
+    name: Department of Cardiology, Lund University, Lund, Sweden
+  - id: ur
+    name: New York Genome Center & Columbia University, New York, NY, USA
+  - id: ut
+    name: Gothenburg University, Gothenburg, Sweden
+date: 2024-11-04T14:15
+categories:
+  - genomics session
+  - monday
+
+abstract: The authors have not consented to publishing their abstract. 
+---

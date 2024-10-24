@@ -1,0 +1,17 @@
+---
+title: "Climate adaptation from longitudinal growth observations in natural forest trees"
+author: 
+  - name: Kelly Swarts
+    affiliations:
+      - name:  SLU, Umeå
+date: 2024-11-04T13:30
+date-format: MMM DD, HH:mm
+published-title: "Time"
+categories:
+  - genomics session
+  - keynote
+  - monday
+
+abstract: Conifers are ecologically dominant and economically important, but under climate change mature trees are no longer adapted to their environment and are succumbing to drought, disease, early-budding and other challenges globally. If we could predict how individual tree genotypes would respond to different environments, we could — given environmental predictions — plant the right tree in the right space.Tree growth is a function of the experienced (macro- and micro-) environment but also the genetics that underlie how an individual tree responds. While tree-ring studies are dominated by a focus on environmental responses, increment cores also carry signal from tree-specific, genetic responses. Using models derived from agricultural genomics, we isolate variation associated with tree-level genetic signals as well as tree-specific responses to environments modelled from historical weather station data. Confirmed using genetic relationships from millions of genetic variants (single nucleotide polymorphisms, or SNPs), these estimates are highly heritable and can be passed on to offspring. This makes them useful as responses in prediction modelling to evaluate tree performance in new environments and in association mapping to understand the genetic basis of how trees adapt to new environments. As environments shift under climate change, this approach promises a powerful tool to select parents for healthy, resilient forests.
+
+---

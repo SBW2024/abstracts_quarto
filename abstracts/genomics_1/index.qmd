@@ -1,0 +1,39 @@
+---
+title: "Molecular and pharmacological profiling of pediatric B-cell precursor acute lymphoblastic leukemia"
+author: "Olga Krali"
+authors:
+  - name: Olga Krali
+    affiliations:
+      - ref: uf
+      - ref: ue
+  - name: Julia Sulyaeva
+    affiliations:
+      - ref: uf
+      - ref: ue
+  - name: Anna Pia Enblad
+    affiliations:
+      - ref: uf
+      - ref: ue
+      - ref: ug
+  - name: Arja Harila
+    affiliations:
+      - ref: ug
+  - name: Jessica Nordlund
+    affiliations:
+      - ref: uf
+affiliations:
+  - id: uf
+    name: Department of Medical Sciences, Uppsala University, Uppsala, Sweden 
+  - id: ue
+    name: SciLifeLab, Uppsala University, Uppsala, Sweden
+  - id: ug
+    name: Department of Women’s and Children’s Health, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T14:00
+
+
+categories:
+  - genomics session
+  - monday
+
+abstract: Pediatric B-cell precursor acute lymphoblastic leukemia (BCP-ALL) is the most common cancer in children, characterized by numerous molecular alterations that are associated with outcome. Although previous research has highlighted the role of various -omics modalities in understanding ALL pathogenesis and disease traits, the integration of multi-omics with drug response data and their correlation with clinical outcomes remains insufficiently explored in BCP-ALL. This gap limits our understanding of how the shared heterogeneity between these modalities reflects the pathophysiology of pediatric BCP-ALL. Herein, we integrated epigenetic (DNA methylation arrays), transcriptomic (RNA-seq), ex-vivo drug response, and clinical outcome data from 1,231 Nordic BCP-ALL patients using Multi-Omics Factor Analysis (MOFA). This approach generated ten multimodal latent representations, referred to as cross-modal elements (CMEs), through an unsupervised process. The CMEs were further annotated by extrapolating results from pathway and multimodal network analyses, focusing on the most impactful molecular and pharmacological features. Notably, molecular signatures related to developmental state, cell cycle regulation and metabolic pathways were associated with several of the CMEs. Multimodal network analysis also revealed inter-modality interactions, for example a link between ex vivo response to vincristine and the expression levels of histone genes. The CMEs often mapped to multiple molecular functions, underscoring the complexity of the BCP-ALL disease landscape. Furthermore, survival analysis demonstrated that a majority of the CMEs were associated with relapse or death (log rank p-value <0.05). In conclusion, integrating multiple molecular and pharmacological profiles effectively uncovers intricate disease patterns with potential clinical implications for future treatment of BCP-ALL.
+---
