@@ -9,43 +9,20 @@ website:
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By SBW2024, 2024"
-    
-  sidebar:
-    logo: "images/SBW2024_logo_pink_final.png"
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://www.sbw2024.org/
-        text: "Swedish Bioinformatics Workshop 2024"
-      - icon: github
-        href: https://github.com/SBW2024/abstracts_quarto
-        text: "Book of Abstracts"        
-
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - href: index.qmd
-        text: Presentation abstracts
-
+    left: ""
 
 execute:
   freeze: auto
 
-
 format:
   html:
-    embed-resources: true
     theme:
-      light: [flatly] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      light: [flatly]
       dark: [darkly]
     code-copy: true
     linkcolor: "#539180"
     code-overflow: wrap
-    toc: true
-
+    toc: false
 
 filters:
   - quarto
