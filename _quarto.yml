@@ -5,8 +5,7 @@ website:
   page-navigation: true
   title: "Book of abstracts, Swedish Bioinformatics Workshop 2024" 
   site-url: "https://www.sbw2024.org/" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
-  repo-actions: [edit, issue]
+  repo-url: https://github.com/SBW2024/abstracts_quarto
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
@@ -21,7 +20,7 @@ website:
         href: https://www.sbw2024.org/
         text: "Swedish Bioinformatics Workshop 2024"
       - icon: github
-        href: https://www.sbw2024.org/
+        href: https://www.sbw2024.org/abstracts_quarto
         text: "Book of Abstracts"        
 
     style: "docked"
