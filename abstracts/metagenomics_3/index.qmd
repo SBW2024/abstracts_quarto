@@ -5,12 +5,29 @@ authors:
   - name: Valeriia Ladyhina
     affiliations:
       - ref: u1
+      - ref: u3
+  - name: Elisabeth Rajala
+    affiliations:
+      - ref: u1
+  - name: Susanna Sternberg-Lewerin
+    affiliations:
+      - ref: u1
+  - name: Leila Nazirzadeh
+    affiliations:
+      - ref: u1
   - name: Erik Bongcam Rudloff
     affiliations:
       - ref: u1
+  - name: Johan Dicksved
+    affiliations:
+      - ref: u2
 affiliations:
   - id: u1
-    name: Swedish University of Agricultural Sciences, Sweden
+    name: Department of Animal Biosciences, Swedish University of Agricultural Sciences, Uppsala, Sweden
+  - id: u2
+    name: Department of Applied Animal Science and Welfare, Swedish University of Agricultural Sciences, Uppsala Sweden
+  - id: u3
+    name: Uppsala Antibiotic Center, Uppsala University, Uppsala, Sweden
 date: 2024-11-05T12:30
 categories:
   - metagenomics session
