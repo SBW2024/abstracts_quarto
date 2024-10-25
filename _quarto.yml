@@ -20,7 +20,7 @@ website:
         href: https://www.sbw2024.org/
         text: "Swedish Bioinformatics Workshop 2024"
       - icon: github
-        href: https://www.sbw2024.org/abstracts_quarto
+        href: https://github.com/SBW2024/abstracts_quarto
         text: "Book of Abstracts"        
 
     style: "docked"
@@ -28,7 +28,7 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Abstracts
+        text: Presentation abstracts
 
 
 execute:
