@@ -1,6 +1,6 @@
 ---
-title: "Swedish Bioinformatics Workshop 2024"
-subtitle: "Abstracts"
+title: ""
+subtitle: ""
 listing:
   contents: abstracts/*/*.qmd
   id: abstracts
