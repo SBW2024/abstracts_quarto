@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://SBW2024.github.io/abstracts_quarto/sitemap.xml
