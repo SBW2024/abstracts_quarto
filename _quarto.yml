@@ -29,8 +29,10 @@ website:
     contents:
       - href: index.qmd
         text: Abstracts
- 
 
+
+execute:
+  freeze: auto
 
 
 format:
