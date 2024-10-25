@@ -1,0 +1,40 @@
+---
+title: "methylR 2.0: an enhanced user-friendly solution for DNA methylation array analysis"
+author: "Jyotirmoy Das"
+authors:
+  - name: Jyotirmoy Das
+    affiliations:
+      - ref: u5
+      - ref: u6
+  - name: Massimiliano Volpe
+    affiliations:
+      - ref: u1
+  - name: Marco Miralto
+    affiliations:
+      - ref: u2
+  - name: Michele Longo
+    affiliations:
+      - ref: u3
+      - ref: u4
+affiliations:
+  - id: u1
+    name: Department of Immunotechnology, Medicon Village, Lund University, Sweden
+  - id: u2
+    name: Department of Research Infrastructures for marine biological resources, Stazione Zoologica Anton Dohrn, Italy
+  - id: u3
+    name: Department of Translational Medicine, Federico II University of Naples, Italy
+  - id: u4
+    name: URT Genomics of Diabetes, Institute of Experimental Endocrinology and Oncology, National Research Council, Naples, Italy
+  - id: u5
+    name: Bioinformatics, Core Facility, Cell Biology, Faculty of Medical and Health Sciences, Linköping University, Sweden 
+  - id: u6
+    name: Clinical Genomics Linköping, SciLife Laboratory, Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden 
+date: 2024-11-05T16:00
+categories:
+  - tools and software 2 session
+  - tuesday
+
+abstract: "DNA methylation plays a crucial role in gene regulation and epigenetic modification. Analyzing DNA methylation patterns using array data has become increasingly essential for understanding biological processes and disease mechanisms. The first version of methylR provided a graphical interface for such analyses. With the latest Illumina Infinium MethylationEPIC v2.0 array, almost no user-friendly tools are available, so we developed methylR 2.0 with an all-around update. This updated version addresses advanced processing and visualization capabilities, with the latest array platform enhancing user interaction through a more intuitive interface. It now offers sophisticated genome-wide visualization for methylation profiles and robust statistical tests using PCA, MDS and PCR analysis. MethylR 2.0 provides researchers with improved and flexible tools like CNV analysis, tumor purity estimation, and age prediction on the DNA methylation data. The tool simplifies complex workflows, gives insights into the methylation patterns using cell-type detection, exploratory data analysis, and biomarker analysis and enhances reproducibility in epigenetic studies. MethylR 2.0 has expanded its analytical capabilities to offer a better user experience than the previous version, such as enhanced maps for pathways using PathView and IGV integration for the visualization of DMRs. It provides a clearer vision of complex methylation data and facilitates a more robust interpretation of results with detailed interactive reports.MethylR 2.0 offers an enhanced platform for the DNA methylation array data analysis with zero coding, auto-error detection, faster computation, and an extensive user manual with all possible visualization"
+---
+
+

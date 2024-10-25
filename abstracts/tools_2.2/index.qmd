@@ -1,0 +1,23 @@
+---
+title: "‘rCNV’, a comprehensive framework to detect gene copy number variations from SNPs data"
+author: "Pascal Milesi"
+authors:
+  - name: Pascal Milesi
+    affiliations:
+      - ref: u1
+  - name: Piyal Karunarathne
+    affiliations:
+      - ref: u1
+  - name: Qiujie Zhou
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Ecology and Genetics, Uppsala University and SciLifeLab Uppsala
+date: 2024-11-05T16:15
+categories:
+  - tools and software 2 session
+  - tuesday
+
+abstract: "The last decade has seen a giant leap in high throughput sequencing and it is now affordable to conduct genomic studies at populations level. These studies have notably revealed the extent of polymorphism of gene copy number in eukaryotic species. Yet, their evolutionary importance has been overlooked, partly because of our limited capacity to detect them in the genomes. It is particularly true for non-model species where the reference genome is often of lower quality, when available. Here, I shall present the ‘rCNV’ framework we developed and implemented in a R package (https://piyalkarum.github.io/rCNV/, Karunarathne et al. 2023, Mol. Ecol. Res.). It allows identifying SNPs localized in putative multi-copy regions in order to, i) either produce a clean SNPs set to be used in population genetics studies or ii) to be used as markers of CNVs for population and quantitative genomics studies. If the method was primarily optimized for reduced-representation and reference free sequencing data (e.g., RAD-seq, exome capture), we recently developed a novel algorithm optimized for whole genome sequencing data (Zhou et al. in prep). I'll showcase the use of the ‘rCNV’ approach to study the role of gene copy number variations (gCNV) in adaptation along environmental gradients."
+---

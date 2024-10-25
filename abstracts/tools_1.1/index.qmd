@@ -10,7 +10,7 @@ affiliations:
     name: Pixelgen
 date: 2024-11-05T14:00
 categories:
-  - tools and methods 1 session
+  - tools and software 1 session
   - tuesday
 
 abstract: ""

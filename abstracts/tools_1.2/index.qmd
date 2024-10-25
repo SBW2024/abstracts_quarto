@@ -24,7 +24,7 @@ affiliations:
     name: Department of Oncology-Pathology, Karolinska Institute, Sweden
 date: 2024-11-05T14:30
 categories:
-  - tools and methods 1 session
+  - tools and software 1 session
   - tuesday
 
 abstract: "The ever decreasing cost of Next-Generation Sequencing coupled with the emergence of efficient and reproducible analysis pipelines has rendered genomic methods more accessible. However, downstream analyses are basic or missing in most workflows, creating a significant barrier for non-bioinformaticians. To help close this gap, we developed Cactus, an end-to-end pipeline for analyzing ATAC-Seq and mRNA-Seq data, either separately or jointly. Its Nextflow-, container-, and virtual environment-based architecture ensures efficient and reproducible analyses. Cactus preprocesses raw reads, conducts differential analyses between conditions, and performs enrichment analyses in various databases, including DNA-binding motifs, ChIP-Seq binding sites, chromatin states, and ontologies. We demonstrate the utility of Cactus in a multi-modal and multi-species case study as well as by showcasing its unique capabilities as compared to other ATAC-Seq pipelines. In conclusion, Cactus can assist researchers in gaining comprehensive insights from chromatin accessibility and gene expression data in a quick, user-friendly, and reproducible manner."
