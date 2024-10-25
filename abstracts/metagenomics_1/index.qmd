@@ -1,0 +1,44 @@
+---
+title: "Wastewater-based genomic surveillance of ESBL-producing *Escherichia Coli*"
+author: "Vaishnavi Divya Shridar"
+authors:
+  - name: Vaishnavi Divya Shridar
+    affiliations:
+      - ref: u1
+  - name: Björn Berglund
+    affiliations:
+      - ref: u2
+  - name: Marie Wrande
+    affiliations:
+      - ref: u3
+  - name: Stefan Engblom
+    affiliations:
+      - ref: u1
+  - name: Sanna Koskiniemi
+    affiliations:
+      - ref: u2
+  - name: Linus Sandegren
+    affiliations:
+      - ref: u3
+affiliations:
+  - id: u1
+    name: Department of Information Technology, Uppsala University, Sweden
+  - id: u2
+    name: Department of Cell and Molecular Biology, Uppsala University, Sweden
+  - id: u3
+    name: Department of Medical Biochemistry and Microbiology, Uppsala University, Sweden
+date: 2024-11-05T12:00
+categories:
+  - metagenomics session
+  - tuesday
+
+---
+
+**Introduction:** Multidrug resistance exhibited by extended-spectrum ß-lactamase (ESBL) producing Escherichia Coli (E. coli) has been associated with antibiotic therapy failure. For effective infection control, it is imperative that ESBL-producing E. coli is well-surveilled. 
+We thus investigate if wastewater metagenomics be used for surveillance of antimicrobial resistant E. coli.
+
+**Methods:** Influent wastewater was collected monthly between June 2023 and February 2024 from a large Uppsala treatment plant. Illumina sequencing was performed on pooled E. coli colonies produced from direct plating on selective Agar plates for E. coli (EC) and ESBL-producing E. coli (ESBL-EC). Relative abundance estimates of strains within the metagenomic sequences were computed through Kraken2 and Bracken. Sequences were also analysed for known antimicrobial resistance genes (ARGs) obtained from ResFinder.
+
+**Results:** A higher average E. coli abundance of 70.49% was detected for samples with ESBL-EC selection (n=15), compared to 69.47% with EC selection (n=16). Across the 7 samples reporting an E. coli abundance exceeding 80%, Escherichia Coli O157:H7 was consistently reported within the top 5 most highly abundant strains. Uropathogenic E. coli strains of serogroups O7, O16, O18 and O25 were also present. A preliminary analysis of 4 samples reported the highest prevalence of blaTEM genes, with either blaCTX-M or blaCMY following. 
+
+**Conclusion:** A known food and waterborne pathogen, Escherichia Coli O157:H7 is the cause of diarrhea and hemorrhagic colitis and has historically been identified in cattle wastewater. Its presence in Uppsala wastewater thus requires further investigation. Additionally, the identification of blaCTX-M-genes, the most clinically occurring ESBL-genes, supports the above-described pipeline for E. coli surveillance. **

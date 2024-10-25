@@ -1,0 +1,20 @@
+---
+title: "Analysis of pig farm environment’s resistome: methodological aspects"
+author: "Valeriia Ladyhina"
+authors:
+  - name: Valeriia Ladyhina
+    affiliations:
+      - ref: u1
+  - name: Erik Bongcam Rudloff
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Swedish University of Agricultural Sciences, Sweden
+date: 2024-11-05T12:30
+categories:
+  - metagenomics session
+  - tuesday
+
+abstract: "Antimicrobial resistance (AMR), its development and spread among people, animals and environment is a typical One Health issue that attracts a lot of attention in last decades. One major contributor to the development and dissemination of AMR is the animal sector, which is estimated to account for more than 50% of global antibiotics usage. While we know that antibiotic use exerts a selective pressure for resistant bacteria in exposed microbiota, many questions about epidemiology of AMR in farm environments remain unanswered, particularly in the context of longitudinal studies on the dynamics of resistance development. This is due to several methodological challenges and limitations, such as inconsistent sampling methods, complexity of environmental samples and the lack of standardized protocols for sample collection, processing and bioinformatical analysis. In this project, we combined metagenomics and bioinformatics methods to optimise the methodology for longitudinal research on the resistome in samples from indoor farm environment. The work included optimizing sample collection, transportation, and storage, as well as DNA extraction, sequencing, and bioinformatic analysis, such as metagenome assembly and antibiotic resistance genes detection."
+---

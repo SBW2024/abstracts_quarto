@@ -1,0 +1,24 @@
+---
+title: "Extreme meta'omics: handling 15Tb+ of data from the Central Arctic Ocean"
+author: "Moritz Buck"
+authors:
+  - name: Moritz Buck
+    affiliations:
+      - ref: u1
+  - name: Stefan Bertilsson
+    affiliations:
+      - ref: u1
+  - name: Pauline Snoeijs Leijonmalm
+    affiliations:
+      - ref: u2
+affiliations:
+  - id: u1
+    name: Swedish University of Agricultural Sciences, Sweden
+  - id: u2
+    name: Stockholm University, Sweden
+date: 2024-11-05T12:15
+categories:
+  - metagenomics session
+  - tuesday
+abstract: "The Central Arctic Ocean, characterized by extreme environmental conditions such as low temperatures, limited nutrient availability, and prolonged periods of darkness, represents a largely unexplored frontier in microbial ecology. Leveraging the extensive sampling efforts of the MOSAiC (Multidisciplinary Drifting Observatory for the Study of Arctic Climate) expedition and the Synoptic Arctic Survey (SynArctic) cruise, we have generated over 15TB of metagenomic and metatranscriptomic data. This unprecedented dataset provides valuable insights into this remote region's microbial diversity and metabolic functions. However, the large-scale dataset presents significant bioinformatic challenges. The sheer volume of data can complicate even the most trivial processing and analysis steps. From storage to visualisation, bottlenecks can appear at every angle. Efficiently managing and analyzing the data, while ensuring high-quality work, is hard. Overcoming these bioinformatic challenges is essential to fully understand the roles of microbial communities in Arctic biogeochemical cycles, particularly in the context of climate change. I will present and discuss some of these issues, and lessons learned. As well as the data itself and some preliminary results extracted from this treasure trove of data will help us understand polar microbial ecosystems."
+---

@@ -1,0 +1,43 @@
+---
+title: "Machine learning detection of antibiotic heteroresistance in *E. coli*"
+author: "Andrei Guliaev"
+authors:
+  - name: Andrei Guliaev
+    affiliations:
+      - ref: u1
+  - name: Karin Hjort
+    affiliations:
+      - ref: u1
+  - name: Michele Rossi
+    affiliations:
+      - ref: u2
+      - ref: u3
+  - name: Sofia Jonsson
+    affiliations:
+      - ref: u1
+  - name: Hervé Nicoloff
+    affiliations:
+      - ref: u1
+  - name: Lionel Guy
+    affiliations:
+      - ref: u1
+      - ref: u4
+  - name: Dan I. Andersson
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden
+  - id: u2
+    name: Department of Biosciences, University of Milan, Milan, Italy
+  - id: u3
+    name: Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy 
+  - id: u4
+    name: SciLifeLab, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T16:45
+categories:
+  - ML/AI session
+  - monday
+
+abstract: "Heteroresistance (HR) is a special type of antibiotic resistance where in a susceptible main population, small subpopulations of resistant cells are present. HR has been observed for several bacterial species and antibiotic classes and is associated with antibiotic treatment failures. Standard antibiotic susceptibility testing methods cannot consistently detect HR and the gold standard for identification of HR, Population Analysis Profiling (PAP) test, is too costly for clinical settings. HR in Gram-negative bacteria is commonly caused by unstable tandem gene amplifications and increased dosage of resistance genes. Here, we applied a simple model based on the direct association between the presence of β-lactamase genes and HR phenotype (baseline model) and a set of machine-learning algorithms (MLA) to 467 whole genome sequenced blood isolates of E. coli, categorised as HR or non-HR to piperacillin-tazobactam by PAP tests, to determine if these models could be used to detect HR. The best MLA outperformed the baseline model in all metrics and showed a 100% sensitivity and 85% specificity, with the strongest predictors being number and types of beta-lactamases and IS elements flanking them. Analysis of the best model and whole genome sequencing (WGS) analysis of HR strains support the hypothesis that unstable HR is due to increased gene expression with the dominant mechanism being tandem gene amplifications of resistance genes. Our results show that a combination of WGS data and MLAs can be used to identify heteroresistant bacteria in clinical settings."
+---

@@ -1,0 +1,18 @@
+---
+title: "Ensemble net and Protein Embeddings generalise Protein Interface Prediction beyond Homology"
+author: "Anton Feenstra"
+authors:
+  - name: Anton Feenstra
+    affiliations:
+      - ref: uf
+affiliations:
+  - id: uf
+    name: Vrije Universiteit Amsterdam, The Netherlands
+date: 2024-11-04T16:00
+categories:
+  - ML/AI session
+  - monday
+  - keynote
+
+abstract: "Protein interface prediction, crucial for understanding biological functions and disease mechanisms, remains a complex task in computational biology. Increasingly, Deep Learning models are having success. This study presents PIPENN-EMB which explores the added value of using embeddings from ProtT5-XL. Our results show substantial improvement over the PIPENN model for protein interface prediction, and that embeddings cover a broad range of protein features in ablation studies. PIPENN-EMB reaches state-of-the-art performance on the ZK448 benchmark dataset for protein-protein interface prediction: AUC-ROC 0.805 and MCC 0.392; where therunner-up, EnsemPPIS, reaches 0.770 and 0.291, respectively, on the same dataset. We showcase redictions on 23 resistance-related proteins from mycobacterium tuberculosis, and also compare with structure-based predictors PeSTo and CSM. Our sequence-based PIPENN-EMB method generalises to remote homologs, with less than 30% sequence identity over the whole protein sequence relative to the methods’ training dataset. In contrast, the other state-of-the-art sequence-based method, Seq-InSite and the structure-based methods PeSTo and CSM perform worse for proteins that have little recognisable homology in their training data."
+---

@@ -1,0 +1,23 @@
+---
+title: "Nanoparticle diffusion through native and artificial porcine colonic mucus model studied by diffusional fingerprinting – A machine learning framework"
+author: "Shakhawath Hossain"
+authors:
+  - name: Shakhawath Hossain
+    affiliations:
+      - ref: uf
+  - name: Marco Tjakra
+    affiliations:
+      - ref: uf
+  - name: Christel A.S. Bergström
+    affiliations:
+      - ref: uf
+affiliations:
+  - id: uf
+    name: Department of Pharmacy and the Swedish Drug Delivery Center, Uppsala University
+date: 2024-11-04T16:30
+categories:
+  - ML/AI session
+  - monday
+
+abstract: "The mucus layer in the gastrointestinal (GI) tract is a critical barrier for nanoparticle delivery, especially in the colonic region where the mucus is thicker than other GI tract regions. This study investigated the diffusion behavior of fluorescently labeled polystyrene nanoparticles, varying in size (100-1000 nm) and charge, through native and two artificial mucus models, with the objective of assessing how well the artificial models mimic the native environment. The artificial mucus models were made with the addition of gelling polymers, polyacrylic acid (PAA), and hydroxyethyl cellulose (HEC). By recording nanoparticle movement and employing smoothed particle tracking (SPT) to analyze their motion, we investigated the complexities of nanoparticle diffusion through the porous and highly viscous mucus structure. Given the inherent complexity of nanoparticle diffusion through this hydrogel, a method known as diffusional fingerprinting was employed to process, analyze, and classify the SPT data. Through diffusional fingerprinting, 17 descriptive features were extracted from the trajectories of the nanoparticles, capturing their diffusional behavior in detail. These features were analyzed using logistic regression to classify the identity of the diffusing particles and the type of mucus model. High accuracy (approximately 84%) was achieved for negatively charged 200 nm nanoparticles, with linear discriminant analysis further revealing the key diffusional features that differentiated the mucus models. Notably, the artificial mucus model composed with HEC closely mirrored the native mucus features, highlighting the potential of diffusional fingerprinting for studying drug transport in the mucus lining of importance to drug delivery and intestinal absorption."
+---

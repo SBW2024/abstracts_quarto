@@ -1,0 +1,17 @@
+---
+title: "Data-driven methods for microbial secondary metabolite discovery"
+author: 
+  - name: Laura Caroll
+    affiliations:
+      - name: Umeå University
+date: 2024-11-05T11:30
+date-format: MMM DD, HH:mm
+published-title: "Time"
+categories:
+  - metagenomics session
+  - keynote
+  - tuesday
+
+abstract: Secondary metabolites (SMs) produced by microbes have critically important roles in human health. While some microbial SMs can be leveraged as essential therapeutics (e.g., antimicrobials, anticancer agents), others have negative impacts on host health (e.g., toxins, carcinogens, pathogen virulence factors). A large proportion of the enzymatic pathways responsible for microbial SM production are encoded by physically clustered groups of genes called biosynthetic gene clusters (BGCs). (Meta)genomic data derived from microbes thus offers tremendous potential as a reservoir for novel BGCs associated with novel SMs. Here, we discuss recent advances in (meta)genome mining approaches for BGC discovery, with an emphasis on rapid computational methods, which allow us to gain insights into the biosynthetic potential of microbial isolates and communities at unprecedented scales.
+
+---
