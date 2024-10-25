@@ -1,0 +1,17 @@
+---
+title: "Reconstructing 3D layouts from cell graphs"
+author: "Ludvig Larsson (Pixelgen)"
+authors:
+  - name: Ludvig Larsson
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Pixelgen
+date: 2024-11-05T14:00
+categories:
+  - tools and methods 1 session
+  - tuesday
+
+abstract: ""
+---

@@ -1,0 +1,121 @@
+---
+title: "FunCoup v6: advancing functional networks across species with directed links and improved user experience"
+author: "Davide Buzzao"
+authors:
+  - name: Davide Buzzao
+    affiliations:
+      - ref: u1
+  - name: Yuvarani Masarapu
+    affiliations:
+      - ref: u1
+  - name: Egle Cekanaviciute
+    affiliations:
+      - ref: u2
+  - name: Zaneta Andrusivova
+    affiliations:
+      - ref: u1
+  - name: Jakub O. Westholm
+    affiliations:
+      - ref: u3
+  - name: Åsa Björklund
+    affiliations:
+      - ref: u4
+  - name: Robin Fallegger
+    affiliations:
+      - ref: u5
+  - name: Pau Badia-i-Mompel
+    affiliations:
+      - ref: u5
+  - name: Valery Boyko
+    affiliations:
+      - ref: u2
+      - ref: u6
+  - name: Shubha Vasisht
+    affiliations:
+      - ref: u7
+  - name: Amanda Saravia-Butler
+    affiliations:
+      - ref: u8
+  - name: Samrawit Gebre
+    affiliations:
+      - ref: u2
+  - name: Enikö Lázár
+    affiliations:
+      - ref: u1
+      - ref: u9
+  - name: Marta Graziano
+    affiliations:
+      - ref: u10
+  - name: Solene Frapard
+    affiliations:
+      - ref: u1
+  - name: Robert G. Hinshaw
+    affiliations:
+      - ref: u11
+  - name: Olaf Bergmann
+    affiliations:
+      - ref: u9
+  - name: Deanne M Taylor
+    affiliations:
+      - ref: u7
+      - ref: u12
+  - name: Douglas C. Wallace
+    affiliations:
+      - ref: u12
+  - name: Christer Sylven
+    affiliations:
+      - ref: u13
+  - name: Konstantinos Meletis
+    affiliations:
+      - ref: u10
+  - name: Julio Saez-Rodriguez
+    affiliations:
+      - ref: u5
+  - name: Jonathan M. Galazka
+    affiliations:
+      - ref: u2
+  - name: Sylvain V. Costes
+    affiliations:
+      - ref: u2
+  - name: Stefania Giacomello
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden
+  - id: u2
+    name: Space Biosciences Division, NASA Ames Research Center, CA, USA
+  - id: u3
+    name: National Bioinformatics Infrastructure Sweden, Department of Biochemistry and Biophysics, Stockholm University, Science for Life, Sweden
+  - id: u4
+    name: Department of Cell and Molecular Biology, National Bioinformatics Infrastructure Sweden, Uppsala University, Sweden
+  - id: u5
+    name: Heidelberg University, Faculty of Medicine, and Heidelberg University Hospital, Institute for Computational Biomedicine, Bioquan, DE
+  - id: u6
+    name: Bionetics, Yorktown, VA, USA
+  - id: u7
+    name: Department of Biomedical and Health Informatics, The Children’s Hospital of Philadelphia Research Institute, Philadelphia, US
+  - id: u8
+    name: KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA
+  - id: u9
+    name: Department of Cell and Molecular Biology, Karolinska Institute, Stockholm, Sweden
+  - id: u10
+    name: Department of Neuroscience, Karolinska Institutet, Biomedicum, Solna, Sweden
+  - id: u11
+    name: NASA Postdoctoral Program - Oak Ridge Associated Universities, NASA Ames Research Center, CA, USA
+  - id: u12
+    name: Department of Pediatrics, The University of Pennsylvania Perelman School of Medicine, Philadelphia, USA
+  - id: u12
+    name: Department of Pediatrics, The University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA
+  - id: u13
+    name: Department of Medicine, Karolinska Institute, Huddinge, Sweden
+date: 2024-11-05T14:45
+categories:
+  - tools and methods 1 session
+  - tuesday
+
+abstract: "FunCoup v6 (https://funcoup.org/) represents a significant advancement in global functional association networks, aiming to provide researchers with a comprehensive view of the functional coupling interactome. This update introduces novel methodologies and integrated tools for improved network inference and analysis. Major new developments in FunCoup v6 include vastly expanding the coverage of gene regulatory links, a new framework for bin-free Bayesian training, and a new website. A substantial increase in regulatory links was obtained for 13 species, with around half a million directed links between 838 transcription factors and 14,989 target genes only within the human network, enhancing our understanding of transcriptional regulation. In addition to MaxLink, FunCoup v6 integrates a new tool for disease and drug target module identification using the TOPAS algorithm. To expand the utility of the resource for biomedical research, it incorporates KEGG pathway enrichment analysis using the ANUBIX, BinoX, and EASE algorithms. The unique comparative interactomics analysis in FunCoup provides insights of network conservation, now allowing users to align orthologs only or query each species network independently. Bin-free training was applied to 22 primary species in FunCoup v6, and in addition networks were generated for all remaining 618 species in InParanoidDB 9 via a new ortholog-based method to transfer entire networks from the closest primary species. Accompanying these advancements, FunCoup v6 features a new redesigned website, together with updated API functionalities, providing users with enhanced accessibility and usability. FunCoup v6 demonstrates superior benchmark performance compared to other large functional association networks. "
+---
+
+
+
