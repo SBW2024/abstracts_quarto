@@ -1,0 +1,44 @@
+---
+title: "A multiomics approach to describe microbial diversity and activity in the Kiruna mine"
+author: "Petter Birger Madsen"
+authors:
+  - name: Petter Birger Madsen
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Hanna Johannesson
+    affiliations:
+      - ref: u1
+  - name: Anna Rosling
+    affiliations:
+      - ref: u3
+  - name: Ayco Tack
+    affiliations:
+      - ref: u1
+  - name: Maliheh Mehrshad 
+    affiliations:
+      - ref: u4
+affiliations:
+  - id: u1
+    name: Department of ecology, environment and plant sciences, Stockholm University
+  - id: u2
+    name: Luossavaara Kiirunavaara AB, Environmental department
+  - id: u3
+    name: Department of Ecology and Genetics, Evolutionary Biology, Uppsala University
+  - id: u4
+    name: Department of Aquatic Sciences and Assessment, SLU
+date: 2024-11-04T14:45:22
+categories:
+  - poster session
+  - monday
+---
+
+ABSTRACT: 
+
+Crude oil and petroleum products are of specific concern in pollution studies due to their structural complexity, slow biodegradability, biomagnification potential, and the serious health hazards associated with their release into the environment. Bioremediation, which makes use of natural microbial biodegradation activity, is an attractive alternative and/or addition to physicochemical methods for restoration of PHC polluted environments. For the development of effective bioremediation methods, a better understanding of the indigenous microbial community that use these compounds as an energy resource in the polluted areas is needed.
+
+In this project, microbial community samples were collected in the underground mining facility in Kiruna underground mine (KUJ), in Lappland, Sweden, which is contaminated with pollutants due to the use of petroleum products for maintenance of machinery. 
+
+Microbial communities were characterized using metagenomics and metatranscriptomics of water and sediment samples collected throughout KUJ and the outflowing water from its tailing ponds, to describe the diversity of the indigenous microbial community and the expression of PHC degrading genes. Further, water samples were collected for characterization of the chemical reactivity of contaminants. Our aim with this project is to describe the microbial community diversity and activity in KUJ.
+
+This project will build the foundation for developing local in situ bioremediation of KUJ.

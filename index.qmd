@@ -2,15 +2,31 @@
 title: ""
 subtitle: ""
 listing:
-  contents: abstracts/*/*.qmd
-  id: abstracts
-  type: table
-  table-striped: true
-  categories: true
-  date-format: MMM DD, HH:mm
-  sort: "date asc"
+
+  - id: abstracts
+    contents: abstracts/*/*.qmd
+    type: table
+    table-striped: true
+    categories: true
+    date-format: MMM DD, HH:mm
+    sort: "date asc"
+  - id: posters
+    contents: poster_abstracts/*/*.qmd
+    type: table
+    table-striped: true
+    categories: true
+    date-format: MMM DD, HH:mm
+    sort: "date asc"
 ---
+
+# Abstracts presentations
 
 ::: {#abstracts}
 
 :::
+
+# Abstracts posters
+
+:::: {#posters}
+
+::::

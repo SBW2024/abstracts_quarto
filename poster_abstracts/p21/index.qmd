@@ -1,0 +1,35 @@
+---
+title: "Deep Learning with Big Data for Genetic Epidemiology"
+author: "Max Kovalenko"
+authors:
+  - name: Max Kovalenko
+    affiliations:
+      - ref: u1
+  - name: Filip Thor
+    affiliations:
+      - ref: u1
+  - name: Carl Nettelblad
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Åsa Johansson
+    affiliations:
+      - ref: u1
+      - ref: u2
+affiliations:
+  - id: u1
+    name: Division of Scientific Computing, Department of Information Technology, Uppsala University, Sweden
+  - id: u2
+    name: Science for Life Laboratory (SciLifeLab)
+date: 2024-11-04T14:45:21
+categories:
+  - poster session
+  - monday
+---
+
+ABSTRACT: 
+
+The project builds upon an earlier deep neural network model developed for deriving a low-dimensional representation of SNP data. This can be used to perform feature selection for downstream models as well as to identify and visualize population structure. The most common approach relies on PCA components, but it has shortcomings such as linearity and sensitivity to outliers. In contrast, our model, being nonlinear and data-driven, has been shown to produce more informative embeddings.
+
+So far the model has been adapted to training on large datasets and trained on SNP data from UK Biobank, which has one of the most comprehensive databases of human genotypes and phenotypes to date. After these first training attempts, the model is now being improved and tuned. Further plans include applying other deep learning methods to UK Biobank, such as contrastive learning, and extending the model with phenotype prediction capabilities to aid genome-wide association studies.
+

@@ -1,0 +1,26 @@
+---
+title: "SciLifeLab Data Centre services supporting data management and sharing in Sweden"
+author: "Angela Fuentes Pardo"
+authors:
+  - name: Angela Fuentes Pardo
+    affiliations:
+      - ref: u1
+  - name: Katarina Öjefors Stark
+    affiliations:
+      - ref: u1
+  - name: Hanna Kultima
+    affiliations:
+      - ref: u1
+  - name: Johan Rung
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: SciLifeLab Data Centre, Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T14:45:02
+categories:
+  - poster session
+  - monday
+
+abstract: "SciLifeLab, Science for Life Laboratory, is a Swedish national institution dedicated to the progress of molecular biosciences spanning biomedicine, ecology and evolution. SciLifeLab Data Centre develops and operates digital infrastructure services at SciLifeLab. Since data is one of the most concrete, valuable, and lasting outputs of any research effort, we aim to promote and facilitate the reuse of data, in accordance with international data sharing standards, Open Science, and the FAIR principles. This poster presents the variety of services and tools we offer to the research community throughout the entire research data lifecycle. These services include data management planning, hosting of compute applications and AI models, data sharing through its own repositiories and data portals, as well as through collaborations with major national and international e-infrastructures."
+---

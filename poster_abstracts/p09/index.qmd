@@ -1,0 +1,20 @@
+---
+title: "The evolution of gene CNVs in *C. rubella*"
+author: "Freja Lindstedt"
+authors:
+  - name: Freja Lindstedt
+    affiliations:
+      - ref: u1
+  - name: Pascal Milesi
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Ecology and Genetics, Plant Ecology and Evolution, Uppsala University
+date: 2024-11-04T14:45:09
+categories:
+  - poster session
+  - monday
+
+abstract: "A decade of massive sequencing efforts has revealed that copy number variations are pervasive in eukaryotic genomes. Among them, gene copy number variations (gCNVs) have received limited attention – in part due to past technological limitations – and their evolutionary importance remains to be understood. Open evolutionary questions include gCNV mutation rates, segregation patterns and recombination rates. In a previous study, we identified gCNVs across 25 Brassicaceae species with comparative genomics. Using this knowledge, we have designed crosses in an experimental evolutionary context to take a closer look at target gCNVs (e.g. segregation pattern, change in overall mean copy number, change in variance) using the small flowering Brassicaceae plant *Capsella rubella* as a model."
+---

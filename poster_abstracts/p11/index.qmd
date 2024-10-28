@@ -1,0 +1,40 @@
+---
+title: "Unraveling Estrogen Receptor Beta Signaling In Alzheimer's Pathogenesis"
+author: "Heba Ali"
+authors:
+  - name: Heba Ali
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Mukesh Kumar Varshney
+    affiliations:
+      - ref: u1
+  - name: Per Nilsson
+    affiliations:
+      - ref: u1
+  - name: Ivan Nalvarte
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Karolinska Institutet, Stockholm, Sweden
+  - id: u2
+    name: Assiut University, Assiut, Egypt
+date: 2024-11-04T14:45:11
+categories:
+  - poster session
+  - monday
+
+---
+
+ABSTRACT: 
+
+"Middle-aged women are 2-3 times more likely than men to develop Alzheimer’s disease (AD) later in life. While women tend to live longer, factors like sex hormones, genetics, and environment heighten their AD risk. Understanding sex differences in AD has been complex. This project aimed to uncover the molecular underpinnings of the female sex hormone estrogen in AD models and relate these findings to human disease.
+
+We investigated the role of biological sex and sex hormones in AD pathology using APPNLGF mice by inducing surgical menopause in young adult female mice and castrating male mice. APPNLGF mice, which exhibit clear AD pathology by 6 months of age, were used to study the effects of biological sex and sex hormones on memory and AD pathology at 6 and 12 months. 
+
+Preliminary data indicated that the estrogen receptor beta (ERβ) exerts neuroprotective effects in APPNLGF mice. Consequently, we crossed ERβ-/- mice with APP-KI mice to study the effects of ERβ loss on AD pathology, utilizing single-cell RNA sequencing of hippocampal brain cell populations. This analysis provided insights into ERβ's role in brain cell functions and identified sex-dependent alterations in gene activity.
+
+We will anchor our findings to human disease by studying gene and pathway regulations in human AD brains and analyzing GWAS data from women with or without AD diagnosis and with or without different menopausal hormonal treatments. 
+
+Collectively, these findings offer insights into mechanisms underlying sex-specific susceptibility to AD and identify regulatory proteins for potential treatments targeting sex-dependent AD pathology."

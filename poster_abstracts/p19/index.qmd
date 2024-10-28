@@ -1,0 +1,50 @@
+---
+title: "Comparative study of recent contact zone of tree species in Scandinavia"
+author: "Maria del Pilar Herrera Egoavil"
+authors:
+  - name: Herrera-Egoavil Pilar
+    affiliations:
+      - ref: u1
+      - ref: u5
+  - name: Burçin Yildirim
+    affiliations:
+      - ref: u1
+  - name: Leal Luis
+    affiliations:
+      - ref: u1
+  - name: Liziniewicz Mateusz
+    affiliations:
+      - ref: u4
+  - name: Sendrowski Janek
+    affiliations:
+      - ref: u3
+  - name: Milesi Pascal
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Lascoux Martin
+    affiliations:
+      - ref: u1
+      - ref: u2
+affiliations:
+  - id: u1
+    name: Plant Ecology and Evolution program. Institution of Ecology and Genetics. Uppsala University, Sweden
+  - id: u2
+    name: ScilifeLab, Uppsala, Sweden
+  - id: u3
+    name: Department of Molecular Biology and Genetics. Bioinformatics Research Center. Aarhus University, Denmark
+  - id: u4
+    name: Skogforsk, Ekebo Research Station, Svalöv, Sweden
+  - id: u5
+    name: Trees for Me. Swedish University of Agricultural Sciences (SLU). Alnarp, Sweden
+date: 2024-11-04T14:45:19
+categories:
+  - poster session
+  - monday
+--- 
+
+ABSTRACT: 
+
+The Last Glacial Maximum (LGM, ~18,000 ya) strongly shaped the current species distribution across Europe. During the LGM, large ice sheets were present over much of northern Europe, thus species survived in isolated areas known as refugia, located south or east of the ice sheet. As the climate improved and the ice retreated, individuals from various refugia recolonized Northern Europe, forming large contact zones. A previous study showed that Swedish populations of Norway spruce (Picea abies) form two major genetic clusters reflecting post-glacial colonization of Scandinavia from both a Southern and a Northern route. The contact zone separating these two genetic clusters in Spruce also aligned with a transition of Scandinavia’s two major climatic zones and is actively maintained by selection.
+
+We are extending the study of this Scandinavian contact zone to silver birch (Betula pendula) and Scots pine (Pinus sylvestris). Genomic data were analyzed to explore the genetic structure of populations distributed along a latitudinal gradient. Like Norway spruce, southern and northern populations formed two distinct genetic clusters with a narrow contact zone between latitudes 60°- 63°N. The extent and geographical position of these contact zones, combined with information on thousands of genetic markers, allow the reconstruction of the divergence history of populations and the rate of adaptation of species to past climate shifts. Lastly, studying contact zones and genetic structure is paramount to avoid inaccuracy when implementing complex breeding strategies based on genomic prediction or predicting the future evolution of natural populations under current climate change.

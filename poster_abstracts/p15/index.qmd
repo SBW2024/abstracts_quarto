@@ -1,0 +1,20 @@
+---
+title: "Mito-gatk: A Snakemake Pipeline for Comprehensive Mitochondrial Short-Variant Discovery in Mouse and Human Models According to GATK Best Practices"
+author: "Kristina Benevides"
+authors:
+  - name: Kristina Benevides
+    affiliations:
+      - ref: u1
+  - name: Subazini Thankaswamy Kosalai
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: University of Gothenburg
+date: 2024-11-04T14:45:15
+categories:
+  - poster session
+  - monday
+
+abstract: "We have developed a Snakemake workflow, Mito-gatk, engineered for the detection and annotation of short genetic variants within the mitochondrial genome across both human and mouse models. This workflow adheres to the GATK Best Practices, ensuring high standards of accuracy and reliability in variant calling. A distinctive feature of Mito-gatk is its implementation of a specialized mapping strategy tailored for mouse mitochondrial genomes, which enhances coverage uniformity and improves variant detection in mouse samples. While many existing mitochondrial variant calling pipelines and annotation tools are predominantly designed for human genomic data, our pipeline addresses the critical need for a comparable workflow suited for mouse samples. This capability is essential given the prevalence of mouse models in genetic research and the corresponding requirement for accurate mitochondrial variant analysis in these organisms."
+---

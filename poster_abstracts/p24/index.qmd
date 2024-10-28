@@ -1,0 +1,113 @@
+---
+title: "Spatially resolved multiomics on the neuronal effects induced by spaceflight in mice."
+author: "Yuvarani Masarapu"
+authors:
+  - name: Yuvarani Masarapu
+    affiliations:
+      - ref: u1
+  - name: Egle Cekanaviciute
+    affiliations:
+      - ref: u2
+  - name: Zaneta Andrusivova
+    affiliations:
+      - ref: u1
+  - name: Jakub O. Westholm
+    affiliations:
+      - ref: u3
+  - name: Åsa Björklund
+    affiliations:
+      - ref: u4
+  - name: Robin Fallegger
+    affiliations:
+      - ref: u5
+  - name: Pau Badia-i-Mompel
+    affiliations:
+      - ref: u5
+  - name: Valery Boyko
+    affiliations:
+      - ref: u2
+      - ref: u6
+  - name: Shubha Vasisht
+    affiliations:
+      - ref: u7
+  - name: Amanda Saravia-Butler
+    affiliations:
+      - ref: u8
+  - name: Samrawit Gebre
+    affiliations:
+      - ref: u2
+  - name: Enikö Lázár
+    affiliations:
+      - ref: u1
+      - ref: u9
+  - name: Marta Graziano
+    affiliations:
+      - ref: u10
+  - name: Solene Frapard
+    affiliations:
+      - ref: u1
+  - name: Robert G. Hinshaw
+    affiliations:
+      - ref: u11
+  - name: Olaf Bergmann
+    affiliations:
+      - ref: u9
+  - name: Deanne M Taylor
+    affiliations:
+      - ref: u7
+      - ref: u12
+  - name: Douglas C. Wallace
+    affiliations:
+      - ref: u12
+  - name: Christer Sylven
+    affiliations:
+      - ref: u13
+  - name: Konstantinos Meletis
+    affiliations:
+      - ref: u10
+  - name: Julio Saez-Rodriguez
+    affiliations:
+      - ref: u5
+  - name: Jonathan M. Galazka
+    affiliations:
+      - ref: u2
+  - name: Sylvain V. Costes
+    affiliations:
+      - ref: u2
+  - name: Stefania Giacomello
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden
+  - id: u2
+    name: Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA 94035, USA
+  - id: u3
+    name: National Bioinformatics Infrastructure Sweden, Department of Biochemistry and Biophysics, Stockholm University, Science for Life, SE
+  - id: u4
+    name: Department of Cell and Molecular Biology, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Uppsala University, SE
+  - id: u5
+    name: Heidelberg University, Faculty of Medicine, and Heidelberg University Hospital, Institute for Computational Biomedicine, Bioquan, DE
+  - id: u6
+    name: Bionetics, Yorktown, VA, USA
+  - id: u7
+    name: Department of Biomedical and Health Informatics, The Children’s Hospital of Philadelphia Research Institute, Philadelphia, PA, U, US
+  - id: u8
+    name: KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA 94035, USA
+  - id: u9
+    name: Department of Cell and Molecular Biology, Karolinska Institute, Stockholm, Sweden
+  - id: u10
+    name: Department of Neuroscience, Karolinska Institutet, Biomedicum, Solna, Sweden
+  - id: u11
+    name: NASA Postdoctoral Program - Oak Ridge Associated Universities, NASA Ames Research Center, Moffett Field, CA, USA
+  - id: u12
+    name: Department of Pediatrics, The University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA
+  - id: u13
+    name: Department of Medicine, Karolinska Institute, Huddinge, Sweden
+date: 2024-11-04T14:45:24
+categories:
+  - poster session
+  - monday
+
+abstract: "Impairment of the central nervous system (CNS) poses a significant health risk for astronauts during long-duration space missions. In this study, we employed an innovative approach by integrating single-cell multiomics (transcriptomics and chromatin accessibility) with spatial transcriptomics to elucidate the impact of spaceflight on the mouse brain in female mice. Our comparative analysis between ground control and spaceflight-exposed animals revealed significant alterations in essential brain processes including neurogenesis, synaptogenesis and synaptic transmission, particularly affecting the cortex, hippocampus, striatum and neuroendocrine structures. Additionally, we observed astrocyte activation and signs of immune dysfunction. At the pathway level, some spaceflight-induced changes in the brain exhibit similarities with neurodegenerative disorders, marked by oxidative stress and protein misfolding. Our integrated spatial multiomics approach serves as a stepping stone towards understanding spaceflight-induced CNS impairments at the level of individual brain regions and cell types, and provides a basis for comparison in future spaceflight studies. For broader scientific impact, all datasets from this study are available through an interactive data portal, as well as the National Aeronautics and Space Administration (NASA) Open Science Data Repository (OSDR)."
+---

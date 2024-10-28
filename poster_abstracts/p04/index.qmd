@@ -1,0 +1,29 @@
+---
+title: "Quantifying Spatial Coherence in DNA Barcode Networks"
+author: "David Fernandez Bonet"
+authors:
+  - name: David Fernandez Bonet
+    affiliations:
+      - ref: u1
+  - name: Johanna I. Blumenthal
+    affiliations:
+      - ref: u1
+  - name: Shuai Lang
+    affiliations:
+      - ref: u1
+  - name: Simon K Dahlberg
+    affiliations:
+      - ref: u1
+  - name: Ian T. Hoffecker
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: KTH Royal Institute of Technology, Department of Gene Technology
+date: 2024-11-04T14:45:04
+categories:
+  - poster session
+  - monday
+
+abstract: "Sequencing-based microscopy is an emerging optics-free approach for locating molecules within biological samples using spatial networks of DNA tags, high-throughput sequencing, and computational reconstruction. Although proof-of-concept experiments have established its feasibility in model systems, a principles-based understanding of how networks can preserve spatial information is lacking, and current validation strategies involve top-down comparison of reconstructed points to ground truth or prior sample knowledge. We discovered a basic property of spatial networks, spatial coherence, that is the tendency for relative topological relationships to obey Euclidean geometric distance relationships. We show how, in the absence of ground truth, quantitative measures of spatial coherence can be applied to assess a network’s potential to preserve spatial information and detect the presence and extent of distortion in both simulated networks and published experimental data. Measuring spatial coherence provides a basis for quantitative bench-marking across sequencing-based microscopy modalities that will facilitate the field’s continued progress."
+---

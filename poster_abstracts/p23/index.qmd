@@ -1,0 +1,27 @@
+---
+title: "Mapping the functional genomic landscape de novo with divergent transcription analysis of PRO-seq data"
+author: "Serhat Aktay"
+authors:
+  - name: Serhat Aktay
+    affiliations:
+      - ref: u1
+  - name: Anniina Vihervaara
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: KTH, Royal Institute of Technology, Department of Gene Technology SciLifeLab Stockholm, Sweden 
+date: 2024-11-04T14:45:23
+categories:
+  - poster session
+  - monday
+---
+## Abstract: 
+
+Divergent transcription, where transcription occurs bidirectionally from promoters and enhancers, is widespread in multicellular organisms, revealing active genes and enhancers while driving genome evolution and gene origination. To explore this phenomenon, we developed TrackTx, a computational framework that processes precision run-on sequencing (PRO-seq) data to identify functional genomic regions in animals and plants. TrackTx is highly automated, user-friendly, and quantifies RNA synthesis across functional regions. The beta-version is available on GitHub (SerhatAktay/TrackTx).
+
+TrackTx begins by creating a reference genome index and loading data from public or private sources. It then aligns sequenced reads to the reference genome and outputs files with genomic coordinates and counts of actively engaged RNA polymerases. The framework identifies functional genomic regions such as active promoters, gene bodies with productive elongation, enhancers, termination windows, and unannotated genes. TrackTx quantifies transcriptional activity and compares it between samples, allowing for insights into gene expression regulation.
+
+The framework has been applied to PRO-seq data from species including human, mouse, dog, fruit fly, and plant. These analyses revealed similarities and differences in gene expression across organisms and underscored the need for updated reference genomes. Additionally, TrackTx facilitated the discovery of unannotated genes and enhancers, contributing to a more complete understanding of transcriptional landscapes. In summary, TrackTx provides a powerful tool for mapping functional genomic regions, quantifying gene expression, and exploring regulatory mechanisms of transcription across diverse species.
+
+

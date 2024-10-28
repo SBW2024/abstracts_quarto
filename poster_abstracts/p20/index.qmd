@@ -1,0 +1,17 @@
+---
+title: "The Swedish National Genomics Infrastructure (NGI)"
+author: "Matilda Åslin"
+authors:
+  - name: Matilda Åslin
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: On behalf of the National Genomics Infrastrucure, SciLifeLab Genomics Platform, Uppsala University, Sweden
+date: 2024-11-04T14:45:20
+categories:
+  - poster session
+  - monday
+
+abstract: "The National Genomics Infrastructure (NGI), hosted by Science for Life Laboratory (SciLifeLab), is a pioneering genomics resource in Sweden (https://ngisweden.scilifelab.se). With over 25 years of experience, NGI offers high-throughput genomics services to both academic and industrial users. NGI offers a unique combination of consultative support, biospecimen processing, and expert data handling via state-of-the art data processing, quality control, and delivery. NGI provides comprehensive services for a wide-range of -omics capabilities crucial to a wide variety of bioinformatic analyses. NGI’s services span SNP genotyping, short- and long-read sequencing, single-cell analysis, spatial transcriptomics, and high-throughput proteomics assays. In addition to providing access to cutting-edge services for genomics, a major part of NGI’s operation is devoted to evaluating and introducing new methods, instruments, and protocols in collaboration with researchers and companies, or through internal development. NGI also provides comprehensive scientific support to its users and education and outreach in the form of seminars, workshops, and webinars for the Swedish research community, and participates in higher education courses. NGI is a partner in many national and international collaborative projects, and is a key part of the biomolecular research in Sweden. "
+---

@@ -1,0 +1,48 @@
+---
+title: "The lac repressor considers inducibility when balancing search speed to binding stability"
+author: "Jinwen Yuan"
+authors:
+  - name: Jinwen Yuan
+    affiliations:
+      - ref: u1
+  - name: Malin Lüking
+    affiliations:
+      - ref: u1
+  - name: Jimmy Larsson
+    affiliations:
+      - ref: u1
+  - name: David Fange
+    affiliations:
+      - ref: u1
+  - name: Spartak Zikrin
+    affiliations:
+      - ref: u1
+  - name: Beer Sen
+    affiliations:
+      - ref: u1
+  - name: Anna Knöppel
+    affiliations:
+      - ref: u1
+  - name: Emil Marklund
+    affiliations:
+      - ref: u1
+  - name: Johan Elf
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Uppsala University, Sweden
+date: 2024-11-04T14:45:13
+categories:
+  - poster session
+  - monday
+---
+
+ABSTRACT:
+
+Transcription factors (TFs) must efficiently locate specific DNA sequences among a large excess of non-specific sites while maintaining high binding specificity, a challenge known as the speed-stability paradox. Traditional views held that DNA specificity arises primarily from slow dissociation at target sites. However, our recent finding suggest that the probability of association is the main factor in governing specificity. Despite these advances, the mechanisms balancing search efficiency with binding stability remain unclear. To address this, we investigated the role of conformational switching between non-specific search and specific recognition modes in the LacI protein on its DNA binding dynamics.
+
+Using molecular dynamics simulations and in vitro real-time kinetics measurements, we examined LacI variants with hinge region mutations that bias the protein toward either the search or recognition conformation. The V52A-LacI variant, which favors the recognition conformation, showed slower dissociation rates and reduced specificity. In contrast, the Q55N-LacI variant, favoring the search conformation, exhibited faster dissociation rates and increased specificity. These results were consistent across in vitro assays, molecular simulations, and in vivo single-molecule imaging, which confirmed the expected trade-offs between binding stability and specificity.
+
+Our findings demonstrate that a more flexible hinge helix in LacI mutants enhances its selectivity but reduces binding strength, while a more stable hinge helix has the opposite effect. The impact of search kinetics on the changes in specificity is however lower than expected. Instead the additional constraint on LacI to be able to allosterically change confirmation in response to an inducer limits the stability of the recognition confirmation, i.e. the trade-off is in stability vs inducibility rather than speed.
+

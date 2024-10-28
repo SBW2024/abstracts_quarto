@@ -1,0 +1,23 @@
+---
+title: "Career Framework for Data analysts"
+author: "Marcela Dávila"
+authors:
+  - name: Marcela Dávila
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: University of Gothenburg, Sweden
+date: 2024-11-04T14:45:18
+categories:
+  - poster session
+  - monday
+--- 
+
+ABSTRACT:
+
+Research Infrastructures (RI) play a pivotal role in advancing scientific discovery and innovation by providing specialized technologies, expertise, and resources to the research community. In recent years, RIs have become integral components across all research fields, supporting a wide range of projects and initiatives aimed at addressing complex scientific challenges. However, despite their importance, the career path and professional development opportunities available to RI staff have often been overlooked, leading to challenges in recruitment, staff retention, and career progression within these vital institutions.
+
+Recognizing the need for tailored career pathways for RI experts, several institutions, both nationally and internationally, have taken proactive steps to address this issue. In Sweden, the Karolinska Institute, Chalmers University of Technology, and other leading institutions have made significant strides in developing career paths for RI staff. However, challenges remain, including the lack of standardized frameworks and clear pathways for career progression within RIs.
+
+In response to these challenges, we propose a Generic RI Career Framework that can be implemented across RIs nationwide. By recognizing and formalizing the expertise and contributions of RI staff, this framework aims to enhance career development opportunities, facilitate mobility between RIs, and ensure the sustainability of these essential research assets. By outlining clear career tracks, expertise tiers, and job titles, this framework provides a structured approach to career progression within RIs. By investing in the professional development of RI staff, we can strengthen the research infrastructure ecosystem, foster innovation, and drive scientific progress for the benefit of society.

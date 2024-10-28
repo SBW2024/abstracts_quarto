@@ -1,0 +1,23 @@
+---
+title: "A new pedagogical approach for master-level Bioinformatics courses"
+author: "Gabriele Pozzati"
+authors:
+  - name: Gabriele Pozzati
+    affiliations:
+      - ref: u1
+  - name: Samuel C. Flores
+    affiliations:
+      - ref: u1
+      - ref: u2
+affiliations:
+  - id: u1
+    name: Stockholm University
+  - id: u2
+    name: Swedish University of Agricultural Sciences
+date: 2024-11-04T14:45:10
+categories:
+  - poster session
+  - monday
+
+abstract: "The authors have not consented to publishing their abstract."
+---

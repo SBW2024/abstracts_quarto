@@ -1,0 +1,23 @@
+---
+title: "Genome-scale metabolic modeling identifies sites at risk for metabolism-induced promotion of cancer-associated muscle atrophy"
+author: "Brennan Wadsworth"
+authors:
+  - name: Brennan Wadsworth
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Cell and Molecular Biology, Karolinska Institutet
+date: 2024-11-04T14:45:03
+categories:
+  - poster session
+  - monday
+---
+
+ABSTRACT: 
+
+CCAAT/enhancer binding protein beta (C/EBPβ) is a transcription factor involved in normal tissue development, while also associated with poor prognosis in cancer due to upregulation of inflammatory pathways that lead to cancer cachexia, i.e. muscle atrophy. We recently identified 2-hydroxybutyrate as a novel metabolic signal capable of stimulating C/EBPβ activity in tumour cells. We hypothesized that we could replicate this mechanism as a signature in large datasets to identify cancers most at risk for metabolism-induced C/EBPβ-dependent promotion of cancer cachexia.
+
+We first conducted a transcriptome-wide Cox proportional hazards regression model screen for all tumour sites included in The Cancer Genome Atlas (TCGA) datasets, outputting genes associated with poor outcome by tumour site. These genes were assessed for enrichment in C/EBPβ regulated genes according to both public unbiased and curated gene sets. TCGA samples were subsequently clustered within tumour sites based on C/EBPβ gene sets predicting poor outcome in those sites. Prediction of patient outcome was confirmed by survival analysis comparing resultant sample clusters.
+
+Finally, we conducted genome scale metabolic modelling comparing C/EBPβ clusters that successfully predicted outcome. Metabolic models assessed capacity for production of 2-hydroxybutyrate, as well as NADH and NADPH as indicators of redox balance that feed into C/EBPβ stimulation. We find that head and neck squamous cell carcinoma, low grade gliomas, and lung squamous cell carcinoma are at greatest risk for 2-hydroxybutyrate driven C/EBPβ-dependent expression of pro-cachexia factors in solid tumours. This work provides guidance for further laboratory-based investigation in this field.

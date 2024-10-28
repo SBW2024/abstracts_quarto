@@ -1,0 +1,28 @@
+---
+title: "When the pathogen becomes the prey: responses of different plant pathogens facing mycoparasitic organisms"
+author: "Florian Rocher"
+authors:
+  - name: Florian Rocher 
+    affiliations:
+      - ref: u1
+  - name: Jenifer Seematti Sundar
+    affiliations:
+      - ref: u1
+  - name: Ramesh R. Vetukuri
+    affiliations:
+      - ref: u2
+  - name: Laura Grenville-Briggs Didymus
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Plant Protection Biology, Swedish University of Agricultural Sciences, Alnarp, Sweden
+  - id: u2
+    name: Department of Plant Breeding, Swedish University of Agricultural Sciences, Alnarp, Sweden
+date: 2024-11-04T14:45:08
+categories:
+  - poster session
+  - monday
+
+abstract: "The plant holobiont is defined as the plant and its associated microbial community that includes cooperative and antagonist species. The holobiont composition is driven by complex molecular crosstalk between all the interacting partners in which microbe-microbe interactions, especially between pathogenic and mycoparasite species, represent important selective forces that strongly drive plant health outcome. Plant pathogen species have been thoroughly studied through the lens of the interaction with their hosts, particularly by the characterization of the pathogenicity and resistance-triggering factors. However, the mechanisms involved in pathogen species when interacting with other microorganisms have been mainly overlooked and must be addressed to improve plant protection strategies. In this context, the molecular components underlying the responses of three plant pathogens from different kingdoms and infecting different host species, Botrytis cinerea, Phytophthora infestans and Phytophthora plurivora, facing two oomycete mycoparasites, Pythium oligandrum and Pythium periplocum, have been characterized in vitro using a RNA-seq approach. To get a near-complete picture of the prey responses to mycoparastism, we focused our analysis on the mycoparasitism-responsive genes predicted to be involved in sensing, signal transduction, gene regulation and stress responses. Taking advantage of the diversity of prey and mycoparasites, we explored the degree of conservation of the identified molecular responses between all the interactions and we highlighted a range of conserved genes involved in response to mycoparasitism. Our findings provide new insights in the strategy set by plant pathogens facing antagonist species and the identified set of conserved genes represent a valuable resource to investigate their defence mechanisms."
+---

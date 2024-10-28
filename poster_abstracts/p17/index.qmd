@@ -1,0 +1,20 @@
+---
+title: "The use of 16S amplicon data to investigate spatial relations between mosquito breeding sites and microbiota"
+author: "Lorenzo Assentato"
+authors:
+  - name: Lorenzo Assentato
+    affiliations:
+      - ref: u1
+  - name: Olle Terenius
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Uppsala University
+date: 2024-11-04T14:45:17
+categories:
+  - poster session
+  - monday
+
+abstract: "Mosquitoes have long been vectors of diseases around the world, with yet not so many strategies to prevent the spread of diseases such as Malaria, Dengue virus, West Nile virus and others. Hindering transmission in rural areas revolves around the use of methods like insecticide traps or mosquito nets. Independent of their different flying and behavioral patterns, all genera of mosquitoes have a very strong connection with their own breeding sites. The mosquito microbiota is influenced by the microbial communities of the aquatic environment they inhabit, making it possible to distinguish between individuals coming from two different locations even on a very small scale. We developed a bioinformatic pipeline for 16S amplicon microbial analysis leveraging the use of the workflow manager Snakemake and package manager Conda to facilitate its use, distribution and scalability to different systems and resources. Using the pipeline, we successfully proved that the microbial community of Anopheles larvae can be used to distinguish between location sites or types of location. Furthermore, random forest-based classification of mosquito larvae resolves the separation between different spatial locations better than water. This proves that the use of microbiota as an indicator of vector location can be used in the development of more efficient control strategies. "
+---

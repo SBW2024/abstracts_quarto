@@ -1,0 +1,17 @@
+---
+title: "Codon Usage Bias and Selection Patterns in Atlantic Herring"
+author: "Leyi Su"
+authors:
+  - name: Leyi Su
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Medical Biochemistry and Microbiology, Uppsala University
+date: 2024-11-04T14:45:16
+categories:
+  - poster session
+  - monday
+
+abstract: "Codon usage bias, which describes differences in the frequencies of occurrence of synonymous codons in coding sequences, is a prevalent finding in many organisms both in prokaryotes and eukaryotes. The extent of codon usage bias is determined by many factors including gene expression level, GC content, tRNA abundance and effective population size. The Atlantic herring (*Clupea harengus*) is a model organism for exploring the genetic basis of ecological adaptation on account of its large effective population size. Our codon usage analyses demonstrate that the Atlantic herring shows stronger codon usage bias compared with Zebra fish and human. We classified the synonymous mutations into three groups based on the direction of codon changes and found different selection patterns in the Site Frequency Spectra based on these three categories. However, the codon usage is largely affected by the GC3 content, so whether or not the stronger codon usage bias in Atlantic herring is due to more efficient purifying selection still needs more research. "
+---

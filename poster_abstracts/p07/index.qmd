@@ -1,0 +1,44 @@
+---
+title: "Bacterial vaginosis: Understanding the effect of antibiotic-free treatment (pHyph) on the vaginal microbiome"
+author: "Emilia Lahtinen"
+authors:
+  - name: Emilia Lahtinen
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Luisa W. Hugerth
+    affiliations:
+      - ref: u1
+      - ref: u3
+  - name: Gabriella Edfeldt
+    affiliations:
+      - ref: u1
+  - name: Helena Strevens
+    affiliations:
+      - ref: u2
+  - name: Sten Kornfält
+    affiliations:
+      - ref: u2
+  - name: Annette Säfholm
+    affiliations:
+      - ref: u2
+  - name: Lars Engstrand
+    affiliations:
+      - ref: u1
+  - name: Ina Schuppe Koistinen
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Centre for Translational Microbiome Research, Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska Institutet, Stockholm, Sweden 
+  - id: u2
+    name: Gedea Biotech AB, Medicon Village, Lund, Sweden
+  - id: u3
+    name: Science for Life Laboratory, Department of medical biochemistry and microbiology, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T14:45:07
+categories:
+  - poster session
+  - monday
+
+abstract: "The authors have not consented to publishing their abstract."
+---

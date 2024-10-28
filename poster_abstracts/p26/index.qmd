@@ -1,0 +1,25 @@
+---
+title: "Comparing functional and taxonomic metagenomics using different statistical techniques"
+author: "Dries Boers"
+authors:
+  - name: Dries Boers
+    affiliations:
+      - ref: u1
+  - name: Anders Andersson
+    affiliations:
+      - ref: u2
+  - name: Anna Schnürer
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Swedish University of Agriculture 
+  - id: u2
+    name: KTH Royal Institute of Technology & SciLifeLab
+date: 2024-11-04T14:45:26
+categories:
+  - poster session
+  - monday
+
+abstract: "The authors have not consented to publishing their abstract."
+---

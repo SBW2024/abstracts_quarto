@@ -1,0 +1,39 @@
+---
+title: "Metatranscriptomic study of a high-solid anaerobic digester operated at high ammonia levels"
+author: "Ebba Perman"
+authors:
+  - name: Ebba Perman
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Abu Bakar Siddique
+    affiliations:
+      - ref: u3
+  - name: Maria Westerholm
+    affiliations:
+      - ref: u1
+      - ref: u2
+  - name: Anna Schnürer
+    affiliations:
+      - ref: u1
+      - ref: u2
+affiliations:
+  - id: u1
+    name: Department of Molecular Sciences, Swedish University of Agricultural Sciences, Uppsala, Sweden
+  - id: u2
+    name: Biogas Solutions Research Centre, Linköping, Sweden
+  - id: u3
+    name: SLU Bioinformatics Infrastructure, Swedish University of Agricultural Sciences, Uppsala, Sweden
+date: 2024-11-04T14:45:06
+categories:
+  - poster session
+  - monday
+
+abstract: ""
+---
+
+ABSTRACT: 
+
+High-solid anaerobic digestion (HSD) is a promising technology for production of biogas and concentrated biofertiliser from organic material with low water content. This study investigated a thermophilic HSD process operated in a laboratory-scale reactor of plug-flow type (PFR), which was given additional protein in the substrate mix to deliberately increase the ammonia concentration and trigger a stress response. As elevated ammonia levels is a common issue in thermophilic HSD, the aim was to explore which microbial groups that remain active under these conditions. Additionally, differences in microbial population, function and activity along the PFR’s horizontal axis was investigated to assess whether this reactor design could reduce the risk of severe ammonia-induced disturbances. These questions were studied using 16S rRNA gene sequences, metagenome and metatranscriptome data, processed with a combination of the Nextflow (nf-core) pipelines MAG, RNAseq and Metatdenovo.
+
+Preliminary results showed that no significant separation of the microbial community structure was observed along the reactor’s horizontal axis. However, the metatranscriptome data indicated downregulation in overall gene expression near the outlet, although class Thermotogae (Defluviitoga) remained relatively active in that section. The protein addition caused accumulation of volatile fatty acids, especially propionate, but the concentration decreased rapidly after protein addition ceased, indicating that no severe disturbance occurred. Propionate production was possibly linked to the genera Lentimicrobium and Proteiniphilum (class Bacteroidia), which showed higher activity during the protein addition phase. Genes expressed by Clostridia were clearly downregulated during the peak in ammonia concentration, while Thermotogae was relatively unaffected. 

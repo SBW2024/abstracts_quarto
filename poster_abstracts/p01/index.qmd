@@ -1,0 +1,23 @@
+---
+title: "Imputation helps with predicting postpartum depression from compositional microbiome data"
+author: "Andrey Shternshis"
+authors:
+  - name: Andrey Shternshis
+    affiliations:
+      - ref: u1
+  - name: Prashant Singh
+    affiliations:
+      - ref: u1
+  - name: Luisa W. Hugerth
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Uppsala University, Sweden
+date: 2024-11-04T14:45:01
+categories:
+  - poster session
+  - monday
+
+abstract: "We present a method for classification of postpartum depression based on the gut microbiome. The dataset consists of three time points of compositional data, with a number of observations missing. Our method involves imputation for missing values and logarithm transformation of the compositional data. For the classification task, we obtain a sensitivity of 82% and a specificity of 99%. For a prediction task, where only data during pregnancy are used, the balanced accuracy is 60%. The results indicate that features extracted from the time series of the microbiome are statistically significant indicators of depression. We find a strong relationship between the clusters of bacteria from gut microbiome and depression. Our results are comparable with other works which use different input variables more directly connected to perinatal depression, such as anxiety, pregnancy, and childbirth."
+---

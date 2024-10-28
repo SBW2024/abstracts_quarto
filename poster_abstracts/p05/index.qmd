@@ -1,0 +1,23 @@
+---
+title: "Modeling cell state transitions through generative reinforcement learning and gene regulatory networks"
+author: "Deniz Seçilmiş"
+authors:
+  - name: "Deniz Seçilmiş"
+    affiliations:
+      - ref: u1
+  - name: Lei Wang
+    affiliations:
+      - ref: u1
+  - name: Enric Llorens-Bobadilla
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm, Sweden
+date: 2024-11-04T14:45:05
+categories:
+  - poster session
+  - monday
+
+abstract: "Gene Regulatory Networks (GRNs) play a crucial role in determining the mechanisms by which one cell type develops into another. Although advances in single-cell technologies allow for detailed modeling of natural cell state transitions, a significant challenge remains in modeling transitions that do not naturally occur but are desirable for therapeutic or experimental purposes, such as cell reprogramming. In this study, we propose an artificial intelligence-based computational framework that combines reinforcement learning with generative modeling to explore and connect input cell states through a set of in silico perturbations on inferred intermediate states. By modeling GRN dynamics and transcription factor (TF) activities, our method aims to identify minimal sets of gene perturbations required to reprogram a given cell type's GRN to mimic that of a target cell type. Applied to developmental transitions, our method can infer new intermediate steps and validate known but left out transitions, while also predicting both novel and known TFs and GRNs underlying specific transitions. By providing a more detailed trajectory of cell state transitions and a targeted perturbation strategy for reprogramming cells, our method aims to advance our understanding of cellular differentiation and enable more precise cellular interventions."
+---

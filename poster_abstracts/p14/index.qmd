@@ -1,0 +1,26 @@
+---
+title: "Classification of Yersinia pestis biovars through pangenome analysis"
+author: "Kiran Paranjape"
+authors:
+  - name: Kiran Paranjape
+    affiliations:
+      - ref: u1
+  - name: Yumeng Wang
+    affiliations:
+      - ref: u1
+  - name: Lionel Guy
+    affiliations:
+      - ref: u1
+  - name: Helen Wang
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T14:45:14
+categories:
+  - poster session
+  - monday
+
+abstract: "*Yersinia pestis* is the causative agent of the plague, a very serious and fatal disease. The disease is zoonotic and transmitted by fleas carrying the bacterium. Over the past millennia, three major outbreaks of plague have occurred, killing more than an estimated 500 million people. These outbreaks allowed the bacterium to spread across the world and have been the basis for typing strains of *Y. pestis*. Strains are usually typed according to their biovar, which is reliant on biochemical tests. Though these tests are easy to perform, they lack the discriminatory power to distinguish different strains. Here we evaluated the pangenome of several strains from China, and strains from the NCBI RefSeq database. The results showed that the genomes of these strains were quite diverse in their gene content. This is contrary to what was expected as *Y. pestis* is highly clonal, and thus the diversity of its pangenome would mainly be due to mutation rate and not recombination. Consequently, the pangenome could be an opportunity to identify new genes for typing methods to increase discriminatory power between *Y. pestis* strains, giving epidemiologist better insights into outbreaks of plague."
+---
