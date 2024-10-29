@@ -1,29 +1,25 @@
 ---
-title: "SLUBI - SLU's bioinformatics infrastructure"
-author: "Amrei Binzer-Panchal"
+title: "Comparing functional and taxonomic metagenomics using different statistical techniques"
+author: "Dries Boers"
 authors:
-  - name: Amrei Binzer-Panchal
+  - name: Dries Boers
     affiliations:
       - ref: u1
-  - name: Nicolas Delhomme
+  - name: Anders Andersson
     affiliations:
-      - ref: u1
-  - name: Adnan Niazi
-    affiliations:
-      - ref: u1
-  - name: Lizel Potgieter
-    affiliations:
-      - ref: u1
-  - name: Abu Bakar Siddique
+      - ref: u2
+  - name: Anna Schnürer
     affiliations:
       - ref: u1
 affiliations:
   - id: u1
-    name: SLUBI, the Swedish University for Agricultural Sciences
-date: 2024-11-04T14:45:27
+    name: Swedish University of Agriculture 
+  - id: u2
+    name: KTH Royal Institute of Technology & SciLifeLab
+date: 2024-11-04T14:45:26
 categories:
   - poster session
   - monday
 
-abstract: "SLUBI (SLU Bioinformatics Infrastructure) supports bioinformatics research at SLU. It provides services such as data analysis, software support, and personalized training. SLUBI enhances bioinformatics skills through workshops and seminars, fostering a collaborative community. This poster outlines SLUBI’s services, training programs, and partnerships, showcasing its impact on advancing bioinformatics research, and presents data on its usage by different groups of the university. "
+abstract: "The authors have not consented to publishing their abstract."
 ---

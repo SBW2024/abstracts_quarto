@@ -1,72 +1,53 @@
 ---
-title: "Mosaic loss of chromosome Y in blood is associated with male susceptibility for Idiopathic Pulmonary Fibrosis"
-author: "Josefin Bjurling"
+title: "Mapping the functional genomic landscape de novo with divergent transcription analysis of PRO-seq data"
+author: "Domenica D'Elia"
 authors:
-  - name: Josefin Bjurling
+  - name: Domenica D'Elia 
     affiliations:
       - ref: u1
-  - name: Nicholas W. Chavkin
+  - name: Cristina Pizzulli 
+    affiliations:
+      - ref: u1
+  - name: Veronica Butaro 
+    affiliations:
+      - ref: u2
+  - name: Daniele Rosa 
+    affiliations:
+      - ref: u2
+  - name: Antonio Pellicani
+    affiliations:
+      - ref: u2
+  - name: Gianvito Pio 
     affiliations:
       - ref: u2
       - ref: u3
+  - name: Michelangelo Ceci
+    affiliations:
+      - ref: u3
+      - ref: u3
       - ref: u4
-  - name: Jonatan Halvardson
-    affiliations:
-      - ref: u1
-  - name: Mark C. Thel
-    affiliations:
-      - ref: u2
-  - name: Jonas Mattisson
-    affiliations:
-      - ref: u1
-  - name: John S. Kim
-    affiliations:
-      - ref: u5
-  - name: Ammar Zaghlool
-    affiliations:
-      - ref: u1
-  - name: Shwu-Fan Ma
-    affiliations:
-      - ref: u6
-  - name: Fernando J. Martinez
-    affiliations:
-      - ref: u7
-  - name: Kevin Anstrom
-    affiliations:
-      - ref: u8
-  - name: Imre Noth
-    affiliations:
-      - ref: u5
-  - name: Kenneth Walsh
-    affiliations:
-      - ref: u2
-  - name: Lars A. Forsberg
-    affiliations:
-      - ref: u1
-      - ref: u9
 affiliations:
   - id: u1
-    name: Department of Immunology, Genetics and Pathology, Science for Life Laboratory, Uppsala University; Uppsala, Sweden
+    name: Institute for Biomedical Technologies, National Research Council, Bari, Italy
   - id: u2
-    name: Hematovascular Biology Center, Robert M. Berne Cardiovascular Research Center, University of Virginia School of Medicine; Charlottesville, USA
+    name: Dept. of Computer Science, University of Bari, Bari, Italy
   - id: u3
-    name: Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute; Seattle, USA
+    name: Big Data Lab, National Interuniversity Consortium for Informatics (CINI), Rome, Italy
   - id: u4
-    name: Department of Pediatrics, University of Washington School of Medicine; Seattle, USA
-  - id: u5
-    name: Division of Pulmonary & Critical Care Medicine, University of Virginia School of Medicine; Charlottesville, USA
-  - id: u6
-    name: Department of Medicine, University of Virginia School of Medicine; Charlottesville, USA
-  - id: u7
-    name: Department of Medicine, Weill Cornell Medical Center; New York,  USA
-  - id: u8
-    name: University of North Carolina at Chapel Hill Gillings School of Global Public Health, 41474, Chapel Hill, USA
-  - id: u9
-    name: The Beijer Laboratory, Uppsala University, Uppsala, Sweden
+    name: Jožef Stefan Institute, Ljubljana, Slovenia
 date: 2024-11-04T14:45:25
 categories:
   - poster session
   - monday
-
-abstract: "The authors have not consented to publishing their abstract."
 ---
+
+## Abstract: 
+
+The rising prevalence of chronic diseases poses signiﬁcant economic and social challenges to national healthcare systems. Machine Learning (ML) and advanced analytical tools have the potential to identify early disease biomarkers from small quantities of biological samples more quickly and cheaply than traditional methods.
+
+Our approach integrates heterogeneous biological data to construct a predictive model for diagnosis using ML techniques. The model is then exploited to suggest microRNAs (miRNAs) as candidate biomarkers of disease onset and progression. Methodologically, we adopt a multi-view learning approach, which leverages various patient-related aspects (views), including miRNA expression values, sequences, and metadata. The novelty lies in the simultaneous use of these three views, complemented by a fourth that represents the interactions among miRNAs.
+
+As a case study, we present the results from the analysis of Mild Cognitive Impairment (MCI) and Alzheimer’s (AD) patients using publicly available data.
+We pre-processed and integrated four datasets from the Gene Expression Omnibus (GEO) repository, which were then fed to a multi-view Random Forest classiﬁer. Explainability techniques based on the importance of feature and permutation were adopted to identify candidate biomarkers. Finally, we conducted miRNA-target interaction (multiMIR) and functional pathway (DAVID, KEGG) analyses to interpret the results biologically.
+
+High-scored predicted disease biomarkers will be validated by nanoﬂuidic qPCR analysis of miRNAs extracted from blood samples of AD and MCI patients under clinical observation. Preliminary results show signiﬁcant involvement of some potential miRNA biomarkers in neurological development and neurodegenerative processes. The ﬁnal goal is to diﬀerentiate between MCI and AD biomarkers.

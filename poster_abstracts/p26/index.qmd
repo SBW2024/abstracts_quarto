@@ -1,22 +1,69 @@
 ---
-title: "Comparing functional and taxonomic metagenomics using different statistical techniques"
-author: "Dries Boers"
+title: "Mosaic loss of chromosome Y in blood is associated with male susceptibility for Idiopathic Pulmonary Fibrosis"
+author: "Josefin Bjurling"
 authors:
-  - name: Dries Boers
+  - name: Josefin Bjurling
     affiliations:
       - ref: u1
-  - name: Anders Andersson
+  - name: Nicholas W. Chavkin
     affiliations:
       - ref: u2
-  - name: Anna Schnürer
+      - ref: u3
+      - ref: u4
+  - name: Jonatan Halvardson
     affiliations:
       - ref: u1
+  - name: Mark C. Thel
+    affiliations:
+      - ref: u2
+  - name: Jonas Mattisson
+    affiliations:
+      - ref: u1
+  - name: John S. Kim
+    affiliations:
+      - ref: u5
+  - name: Ammar Zaghlool
+    affiliations:
+      - ref: u1
+  - name: Shwu-Fan Ma
+    affiliations:
+      - ref: u6
+  - name: Fernando J. Martinez
+    affiliations:
+      - ref: u7
+  - name: Kevin Anstrom
+    affiliations:
+      - ref: u8
+  - name: Imre Noth
+    affiliations:
+      - ref: u5
+  - name: Kenneth Walsh
+    affiliations:
+      - ref: u2
+  - name: Lars A. Forsberg
+    affiliations:
+      - ref: u1
+      - ref: u9
 affiliations:
   - id: u1
-    name: Swedish University of Agriculture 
+    name: Department of Immunology, Genetics and Pathology, Science for Life Laboratory, Uppsala University; Uppsala, Sweden
   - id: u2
-    name: KTH Royal Institute of Technology & SciLifeLab
-date: 2024-11-04T14:45:26
+    name: Hematovascular Biology Center, Robert M. Berne Cardiovascular Research Center, University of Virginia School of Medicine; Charlottesville, USA
+  - id: u3
+    name: Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute; Seattle, USA
+  - id: u4
+    name: Department of Pediatrics, University of Washington School of Medicine; Seattle, USA
+  - id: u5
+    name: Division of Pulmonary & Critical Care Medicine, University of Virginia School of Medicine; Charlottesville, USA
+  - id: u6
+    name: Department of Medicine, University of Virginia School of Medicine; Charlottesville, USA
+  - id: u7
+    name: Department of Medicine, Weill Cornell Medical Center; New York,  USA
+  - id: u8
+    name: University of North Carolina at Chapel Hill Gillings School of Global Public Health, 41474, Chapel Hill, USA
+  - id: u9
+    name: The Beijer Laboratory, Uppsala University, Uppsala, Sweden
+date: 2024-11-04T14:45:25
 categories:
   - poster session
   - monday

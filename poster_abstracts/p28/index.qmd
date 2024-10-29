@@ -1,0 +1,29 @@
+---
+title: "SLUBI - SLU's bioinformatics infrastructure"
+author: "Amrei Binzer-Panchal"
+authors:
+  - name: Amrei Binzer-Panchal
+    affiliations:
+      - ref: u1
+  - name: Nicolas Delhomme
+    affiliations:
+      - ref: u1
+  - name: Adnan Niazi
+    affiliations:
+      - ref: u1
+  - name: Lizel Potgieter
+    affiliations:
+      - ref: u1
+  - name: Abu Bakar Siddique
+    affiliations:
+      - ref: u1
+affiliations:
+  - id: u1
+    name: SLUBI, the Swedish University for Agricultural Sciences
+date: 2024-11-04T14:45:27
+categories:
+  - poster session
+  - monday
+
+abstract: "SLUBI (SLU Bioinformatics Infrastructure) supports bioinformatics research at SLU. It provides services such as data analysis, software support, and personalized training. SLUBI enhances bioinformatics skills through workshops and seminars, fostering a collaborative community. This poster outlines SLUBI’s services, training programs, and partnerships, showcasing its impact on advancing bioinformatics research, and presents data on its usage by different groups of the university. "
+---
