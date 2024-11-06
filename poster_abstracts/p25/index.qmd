@@ -1,5 +1,5 @@
 ---
-title: "Mapping the functional genomic landscape de novo with divergent transcription analysis of PRO-seq data"
+title: "A novel data analysis pipeline based on multi-view learning for the identification of disease biomarkers"
 author: "Domenica D'Elia"
 authors:
   - name: Domenica D'Elia 
